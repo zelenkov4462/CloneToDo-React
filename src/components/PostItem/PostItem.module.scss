@@ -1,0 +1,13 @@
+.postItem__content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 2px solid teal;
+  padding: 15px 20px;
+  margin: 15px 20px;
+}
+
+.postItem__btns {
+  display: flex;
+  align-items: center;
+}
